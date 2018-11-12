@@ -134,7 +134,11 @@
 }
 
 .radioButton {
+  
   cursor: pointer;
+}
+.radioText{
+  display: inline-block;
 }
 
 /*
